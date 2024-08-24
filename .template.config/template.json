@@ -1,0 +1,15 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Sneh Gour",
+    "classifications": [ "Web", "MVC", "Login" ],
+    "name": "ASP.NET Core 8 MVC Template with Login",
+    "identity": "SnehGour.AspNetCore8MvcLoginTemplate",
+    "shortName": "mvclogin8",
+    "tags": {
+      "language": "C#",
+      "type": "project"
+    },
+    "sourceName": "MvcLoginTemplate",
+    "preferNameDirectory": true
+  }
+  
